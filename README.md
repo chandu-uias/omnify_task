@@ -78,7 +78,7 @@ npm start
 - `DELETE /api/blogs/:id` - Delete blog (Only blog author)
 
 ## Deployment Links
-- **Live:** [Live Demo](your_frontend_url)
+- **Live:** https://omnify-task-pnin.vercel.app/
 
 
 ## Loom Walkthrough
