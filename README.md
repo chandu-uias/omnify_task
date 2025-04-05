@@ -81,8 +81,7 @@ npm start
 - **Live:** https://omnify-task-pnin.vercel.app/
 
 
-## Loom Walkthrough
-[Watch Video](your_loom_video_url)
+
 
 
 
