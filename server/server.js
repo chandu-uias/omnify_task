@@ -19,7 +19,7 @@ app.use(
     })
 );
 
-app.set("view engine", "ejs");
+
 app.use(express.json());
 
 app.use("/api/users", userRouter);
